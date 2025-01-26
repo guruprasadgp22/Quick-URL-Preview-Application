@@ -71,20 +71,6 @@ No installation required. Open the `index.html` file in any modern web browser t
 
 ---
 
-## 📸 Screenshots
-![Quick URL Application](./screenshot.png)
-
----
-
-## 🔮 Future Enhancements
-- 🛡️ Add drag-and-drop reordering for saved links.
-- ✏️ Enable inline editing of site names and URLs.
-- 🔍 Implement a search feature for quick access to links.
-- 📜 Add export/import functionality for saved links as JSON files.
-- 👥 Support multiple users with local profiles.
-
----
-
 ## 📧 Contact
 For any inquiries or support, feel free to reach out:
 - **Email:** guruprasad6200@gmail.com
